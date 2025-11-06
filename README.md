@@ -2,6 +2,8 @@
 
 A modern browser-based screen recording tool with powerful real-time annotation capabilities.
 
+**[🚀 Live Demo](https://clip-note.netlify.app/)**
+
 ## ✨ Features
 
 - **Screen Recording** - Capture your screen with high-quality video
