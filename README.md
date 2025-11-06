@@ -64,6 +64,16 @@ Visit `http://localhost:5173` to use ClipNote.
 6. Click **"Stop Recording"** when done
 7. Preview and **download** your recording
 
+## 🎨 Annotation Tools
+
+- **Pen** - Free-hand drawing with customizable colors and thickness
+- **Highlighter** - Semi-transparent highlighting for emphasis
+- **Arrow** - Point to specific areas with arrow annotations
+- **Rectangle** - Draw boxes to highlight sections
+- **Text** - Add text labels anywhere on screen
+- **Eraser** - Remove unwanted annotations
+- **Undo/Clear** - Step back or clear all annotations at once
+
 ## 🏗️ Project Structure
 
 ```
